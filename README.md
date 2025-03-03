@@ -9,7 +9,7 @@ Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta di
 ### Análise de Dados de Demissões Globais
 Descrição: Realizei a limpeza de dados e a análise exploratória em um conjunto de dados abrangente sobre demissões globais, utilizando MySQL, e obtive insights-chave por meio de consultas SQL avançadas.
 - Ferrramenta: MySQL
-- Files: [Análise e limpeza de_dados de_demissoes_globais](https://github.com/ramoncampos/analise_dados_demissoes_globais)
+- Arquivos: [Análise e limpeza de_dados de_demissoes_globais](https://github.com/ramoncampos/analise_dados_demissoes_globais)
 
 ### Citi Bike and NOAA Weather Data Integration
 Description: Explored, cleaned, and merged Citi Bike ridership data with NOAA weather data to create a PostgreSQL database, developing analytics-ready views to facilitate comprehensive data analysis.
