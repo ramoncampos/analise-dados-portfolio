@@ -1,15 +1,15 @@
-# Data Analyst Portfolio Project Repository
+# Repositório de Projetos do Portfólio de Analista de Dados
 
-## Overview
+## Visão Geral
 
-Welcome to my Data Analyst Portfolio Repository! This repository showcases various data analysis projects I have completed, demonstrating my skills in data cleaning, exploration, visualization, and reporting using tools such as SQL, Power BI, and Python. Each project includes a detailed description, the code used for analysis, and the final outputs.
+Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta diversos projetos de análise de dados que concluí, demonstrando minhas habilidades em limpeza, exploração, visualização e criação de relatórios de dados, utilizando ferramentas como SQL, Power BI e Python. Cada projeto inclui uma descrição detalhada, o código utilizado para a análise e os resultados finais.
 
-## Projects
+## Projetos
 
-### World Layoffs Data Analysis
-Description: Conducted data cleaning and exploratory data analysis on a comprehensive World Layoffs dataset using MySQL, deriving key insights through advanced SQL queries.
-- Tools: MySQL
-- Files: [World Layoffs Data Cleaning](https://github.com/krystalbrantley/world_layoffs_data_analysis)
+### Análise de Dados de Demissões Globais
+Descrição: Realizei a limpeza de dados e a análise exploratória em um conjunto de dados abrangente sobre demissões globais, utilizando MySQL, e obtive insights-chave por meio de consultas SQL avançadas.
+- Ferrramenta: MySQL
+- Files: [Análise e limpeza de_dados de_demissoes_globais](https://github.com/ramoncampos/analise_dados_demissoes_globais)
 
 ### Citi Bike and NOAA Weather Data Integration
 Description: Explored, cleaned, and merged Citi Bike ridership data with NOAA weather data to create a PostgreSQL database, developing analytics-ready views to facilitate comprehensive data analysis.
