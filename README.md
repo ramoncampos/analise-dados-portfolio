@@ -1,4 +1,4 @@
-# Repositório de Projetos do Portfólio de Analista de Dados
+# Projetos do Portfólio de Analista de Dados
 
 ## Visão Geral
 
@@ -7,35 +7,26 @@ Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta di
 ## Projetos
 
 ### Análise de Dados de Demissões Globais
-Descrição: Realizei a limpeza de dados e a análise exploratória em um conjunto de dados abrangente sobre demissões globais, utilizando MySQL, e obtive insights-chave por meio de consultas SQL avançadas.
+**Descrição:** Realizei a limpeza de dados e a análise exploratória em um conjunto de dados abrangente sobre demissões globais, utilizando MySQL, e obtive insights-chave por meio de consultas SQL avançadas.
 - Ferrramenta: MySQL
 - Arquivos: [Análise e limpeza de_dados de_demissoes_globais](https://github.com/ramoncampos/analise_dados_demissoes_globais)
 
-### Citi Bike and NOAA Weather Data Integration
-Description: Explored, cleaned, and merged Citi Bike ridership data with NOAA weather data to create a PostgreSQL database, developing analytics-ready views to facilitate comprehensive data analysis.
+### Integração de Dados entre Citi Bike e NOAA Clima
+**Descrição:** Explorei, limpei e integrei os dados de uso do Citi Bike com os dados meteorológicos da NOAA para criar um banco de dados PostgreSQL, desenvolvendo views prontas para análise para facilitar uma avaliação abrangente dos dados. O Citi Bike é um sistema de compartilhamento de bicicletas em Nova York e Miami, operado pela Lyft. A NOAA é uma agência do governo dos Estados Unidos responsável por monitorar e estudar as condições atmosféricas, oceânicas e climáticas. 
 - Tools: PostgreSQL, Python
 - Files: [Bike Rental Data Management](https://github.com/krystalbrantley/bike_rental_data_management)
 
-### Customer Churn Analysis
-Description: Analyzed customer churn to identify reasons for customer attrition and developed a comprehensive report in Power BI to present the findings.
+### Análise de Churn de Clientes
+**Descrição:** Analisei o churn de clientes para identificar as razões pela perda de clientes e desenvolvi um relatório abrangente no Power BI para apresentar os resultados.
 - Tools: Power BI
 - Files: [Customer Churn Analysis](https://github.com/krystalbrantley/customer_churn_analysis)
 
-### Human Resources Data Visualization
-Description: Imported, analyzed, and visualized Human Resources data using Power BI to uncover key insights and trends.
+### Visualização de Dados de Recursos Humanos
+**Descrição:** Importei, analisei e criei visualização de dados de Recursos Humanos utilizando o Power BI para descobrir insights e tendências chave.
 - Tools: Power BI
 - Files:  [HR Analytics Report](https://github.com/krystalbrantley/hr_analytics_report)
 
-## Technologies Used
-
-- SQL: MySQL, PostgreSQL
-- Data Visualization: Power BI
-- Programming: Python
-
-## Contact Information
-
-For any questions or further information, please feel free to contact me:
-
-[My LinkedIn Profile](http://www.linkedin.com/in/krystalbrantley)
-
-Thank you for visiting my Data Analyst Portfolio Repository!
+## Technologias Usadas
+- Banco de dados: MySQL, PostgreSQL
+- Data Viz: Power BI
+- Linguagens: SQL, Python
