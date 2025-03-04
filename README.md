@@ -19,12 +19,12 @@ Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta di
 ### Análise de Churn de Clientes
 **Descrição:** Analisei o churn de clientes para identificar as razões pela perda de clientes e desenvolvi um relatório abrangente no Power BI para apresentar os resultados.
 - Ferrramentas: Power BI
-- Arquivos: [Customer Churn Analysis](#)
+- Arquivos: [Análise de Churn de Clientes](https://github.com/ramoncampos/analise-churn-clientes)
 
 ### Visualização de Dados de Recursos Humanos
 **Descrição:** Importei, analisei e criei visualização de dados de Recursos Humanos utilizando o Power BI para descobrir insights e tendências chave.
 - Ferrramentas: Power BI
-- Arquivos:  [HR Analytics Report](#)
+- Arquivos:  [Análise de Dados de RH](https://github.com/ramoncampos/relatorio-analise-RH)
 
 ## Tecnologias Usadas
 - Banco de dados: MySQL, PostgreSQL
