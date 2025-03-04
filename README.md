@@ -1,4 +1,4 @@
-# Projetos do Portfólio de Analista de Dados
+# Portfólio de Analista de Dados
 
 ## Visão Geral
 
