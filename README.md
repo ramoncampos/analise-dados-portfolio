@@ -22,7 +22,7 @@ Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta di
 - Arquivos: [Análise de Churn de Clientes](https://github.com/ramoncampos/analise-churn-clientes)
 
 ### Visualização de Dados de Recursos Humanos
-**Descrição:** Importei, analisei e criei visualização de dados de Recursos Humanos utilizando o Power BI para descobrir insights e tendências chave.
+**Descrição:** Importei, analisei e criei visualização de dados de Recursos Humanos utilizando o Power BI para descobrir insights e tendências chave, tais como fatores que impactam a rotatividade de funcionários.
 - Ferrramentas: Power BI
 - Arquivos:  [Análise de Dados de RH](https://github.com/ramoncampos/relatorio-analise-RH)
 
