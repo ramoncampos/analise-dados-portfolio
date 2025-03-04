@@ -14,17 +14,17 @@ Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta di
 ### Integração de Dados entre Citi Bike e NOAA Clima
 **Descrição:** Explorei, limpei e integrei os dados de uso do Citi Bike com os dados meteorológicos da NOAA para criar um banco de dados PostgreSQL, desenvolvendo views prontas para análise para facilitar uma avaliação abrangente dos dados. O Citi Bike é um sistema de compartilhamento de bicicletas em Nova York e Miami, operado pela Lyft. A NOAA é uma agência do governo dos Estados Unidos responsável por monitorar e estudar as condições atmosféricas, oceânicas e climáticas. 
 - Ferrramentas: PostgreSQL, Python
-- Arquivos: [Bike Rental Data Management](https://github.com/krystalbrantley/bike_rental_data_management)
+- Arquivos: [Gestão de Dados de Aluguel de Bicicletas](https://github.com/ramoncampos/gestao-dados-aluguel-bicicleta)
 
 ### Análise de Churn de Clientes
 **Descrição:** Analisei o churn de clientes para identificar as razões pela perda de clientes e desenvolvi um relatório abrangente no Power BI para apresentar os resultados.
 - Ferrramentas: Power BI
-- Arquivos: [Customer Churn Analysis](https://github.com/krystalbrantley/customer_churn_analysis)
+- Arquivos: [Customer Churn Analysis](#)
 
 ### Visualização de Dados de Recursos Humanos
 **Descrição:** Importei, analisei e criei visualização de dados de Recursos Humanos utilizando o Power BI para descobrir insights e tendências chave.
 - Ferrramentas: Power BI
-- Arquivos:  [HR Analytics Report](https://github.com/krystalbrantley/hr_analytics_report)
+- Arquivos:  [HR Analytics Report](#)
 
 ## Tecnologias Usadas
 - Banco de dados: MySQL, PostgreSQL
