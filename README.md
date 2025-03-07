@@ -14,7 +14,7 @@ Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta di
 ### Análise de Dados de Aluguel de Bicicletas
 *Integração de Dados entre Citi Bike e NOAA Metereologia*
 <br>
-**Descrição:** Explorei, limpei e integrei os dados de uso do Citi Bike com os dados meteorológicos da NOAA para criar um banco de dados PostgreSQL, desenvolvendo views prontas para análise para facilitar uma avaliação abrangente dos dados. O Citi Bike é um sistema de compartilhamento de bicicletas em Nova York e Miami, operado pela Lyft. A NOAA é uma agência do governo dos Estados Unidos responsável por monitorar e estudar as condições atmosféricas, oceânicas e climáticas. 
+**Descrição:** Com Jupyter notebook e o pandas, explorei, limpei e integrei os dados de uso do Citi Bike com os dados meteorológicos da NOAA para criar um banco de dados PostgreSQL, desenvolvendo views prontas para análise para facilitar uma avaliação abrangente dos dados. O Citi Bike é um sistema de compartilhamento de bicicletas em Nova York e Miami, operado pela Lyft. A NOAA é uma agência do governo dos Estados Unidos responsável por monitorar e estudar as condições atmosféricas, oceânicas e climáticas. 
 - Ferrramentas: PostgreSQL, Python
 - Arquivos: [Análise de Dados de Aluguel de Bicicletas](https://github.com/ramoncampos/analise-dados-aluguel-bicicleta)
 
