@@ -8,7 +8,7 @@ Este repositório apresenta diversos projetos de análise de dados que concluí,
 
 ### 1. Análise de Dados de Demissões Globais
 **Descrição:** Realizei a limpeza de dados e a análise exploratória em um conjunto de dados abrangente sobre demissões globais, utilizando MySQL, e obtive insights-chave por meio de consultas SQL avançadas.
-- Ferrramentas: MySQL
+- Ferrramentas: SQL e MySQL
 - Arquivos: [Análise e limpeza de_dados de_demissoes_globais](https://github.com/ramoncampos/analise_dados_demissoes_globais)
 
 ### 2. Análise de Dados de Aluguel de Bicicletas
