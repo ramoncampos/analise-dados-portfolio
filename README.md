@@ -1,8 +1,8 @@
-# Portfólio de Analista de Dados
+# Portfólio de Análise de Dados
 
 ## Visão Geral
 
-Bem-vindo ao meu Portfólio de Analista de Dados! Este repositório apresenta diversos projetos de análise de dados que concluí, demonstrando minhas habilidades em limpeza, exploração, visualização e criação de relatórios de dados, utilizando ferramentas como SQL, Power BI e Python. Cada projeto inclui uma descrição detalhada, o código utilizado para a análise e os resultados finais.
+Este repositório apresenta diversos projetos de análise de dados que concluí, demonstrando minhas habilidades em limpeza, exploração, análise exploratória, visualização e criação de relatórios de dados. Utilizei ferramentas como SQL, Power BI e Python. Cada projeto inclui uma descrição detalhada, o código utilizado para a análise e os resultados finais.
 
 ## Projetos
 
