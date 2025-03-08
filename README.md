@@ -32,4 +32,4 @@ Este repositório apresenta diversos projetos de análise de dados que concluí,
 ## *Tecnologias Usadas nos Projetos*
 - Banco de dados: MySQL, PostgreSQL
 - Data Viz: Power BI
-- Linguagens: SQL, Python
+- Linguagens: SQL, Python (Pandas, Numpy)
